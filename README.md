@@ -5,8 +5,13 @@ Automated using Selenium with Python as the binding language.
 Developed the framework using Page object model approach.
 
 Brief explanation of each directories -
+
 Pages: Includes the webpages that are automated. As one form was automated, there is one Python file in it in which all the locators are defined.
+
 Report: HTML reports that are generated through pytest.  
+
 TestData: The sample data that is used to enter into the fields in the Request form webpage.
+
 Tests: Test cases related to the request form webpage.
+
 Utilities: Utility files.
