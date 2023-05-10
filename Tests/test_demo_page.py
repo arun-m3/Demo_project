@@ -1,9 +1,7 @@
-import time
 import pytest
 from Pages.DemoPage import DemoPage
 from TestData.DemoPageData import DemoPageData
 from Utilities.BaseClass import BaseClass
-from selenium.webdriver.common.keys import Keys
 
 
 class TestDemoPage(BaseClass):
