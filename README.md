@@ -15,3 +15,5 @@ TestData: The sample data that is used to enter into the fields in the Request f
 Tests: Test cases related to the request form webpage.
 
 Utilities: Utility files.
+
+Note: Form submission was not validated due to recaptcha.
